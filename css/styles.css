@@ -224,7 +224,10 @@ font-weight: 500;
 
 .hero {
     background-color: var(--hero-color);
-  
+    background-image: url(../images_two/Img_hero.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
 
 }
 
