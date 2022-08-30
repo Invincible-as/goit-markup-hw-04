@@ -253,8 +253,8 @@ font-weight: 500;
         background-image: linear-gradient(to right,
          var(--overlay),
         var(--overlay)
-            ),
-            url(./images/img_hero.jpg);
+        ),
+            url(../images/img_hero.jpg);
             background-repeat: no-repeat;
                     background-position: center;
                     background-size: cover;
