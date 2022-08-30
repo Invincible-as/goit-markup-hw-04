@@ -254,7 +254,7 @@ font-weight: 500;
          var(--overlay),
         var(--overlay)
             ),
-            url(../images/img_hero.jpg);
+            url(./images/img_hero.jpg);
             background-repeat: no-repeat;
                     background-position: center;
                     background-size: cover;
@@ -843,6 +843,7 @@ font-weight: 500;
 .our-projects-link {
     display: inline-block;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .our-projects-link:hover,
